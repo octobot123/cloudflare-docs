@@ -1,4 +1,4 @@
-on:
+on:off
   push:
     branches-ignore:
       - production
